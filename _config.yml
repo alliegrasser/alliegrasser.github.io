@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Allie Grasser / Site Title"
+title                    : "Allie Grasser's Portfolio"
 title_separator          : "-"
 name                     : &name "Allie Grasser"
 description              : &description "personal description"
