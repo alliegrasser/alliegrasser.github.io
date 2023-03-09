@@ -16,7 +16,7 @@ Education
 
 Work experience
 ======
-* Delivery Driver
+* **Delivery Driver**
 * Papa John's - Forest Hill, MD
 * August 2022 to Present
   *  Drove and handled pizza deliveries
@@ -25,7 +25,7 @@ Work experience
   *  Cleaning the store and ensuring dishes and utensils are clean
   *  Assembling pizza orders and confirming order completion
 
-* Swim Coach
+* **Swim Coach**
 * Harford Community College - Bel Air, MD
 * October 2021 to December 2022
   *  In charge of running practices smoothly and teaching both experienced and new swimmers
@@ -33,14 +33,14 @@ Work experience
   *  Communicating effectively with both parents and children
   *  Promoted to Lead Coach and given the responsibility to fully run practices and aid other coaches
 
-* Swim Coach
+* **Swim Coach**
 * Fallston Swim Club - Fallston, MD
 * May 2018 to July 2021
   *  Was responsible for engaging and effectively communicating with kids and their parents
   *  Taught in practices every morning and helped ensure swim competitions run smoothly
   *  Oftentimes worked early and very late hours in order to organize team events
 
-* Ticket sales and cashier
+* **Ticket Sales and Cashier**
 Beachmont Corn Maze - Kingsville, MD
 September 2016 to November 2019
   • Volunteer position
@@ -50,7 +50,7 @@ September 2016 to November 2019
   • Quick math skills
   • Remaining calm in busy and high stress environments
 
-* Supervisor
+* **Supervisor**
 * Fallston Swim Club - Fallston, MD
 * August 2018 to August 2019
   *  Responsible for testing chemical levels in pools
@@ -60,7 +60,7 @@ September 2016 to November 2019
   *  Opened and closed the pool at end of shift
   *  I received this position as a promotion from lifeguarding, and had to complete hours of extra training to certify for the position.
 
-* Lifeguard
+* **Lifeguard**
 * Fallston Swim Club - Fallston, MD
 * August 2016 to August 2019
   *  Full-time lifeguard during summer months
@@ -68,7 +68,7 @@ September 2016 to November 2019
   *  Maintaining a pleasant club environment with extensive daily cleaning
   *  This job allowed me to be offered several other jobs and promotions within the swim club due to my work ethic and demeanor.
 
-* Safety Training Assistant
+* **Safety Training Assistant**
 * Heart to Beat LLC - Towson, MD
 * November 2018 to June 2019
   *  Cleaning and setting up CPR mannequins
@@ -102,7 +102,8 @@ Skills
 *  Customer service
 *  Communication skills
 
-**Languages**
+Languages
+======
 * English - First Language
 * French - Intermidiate
 * American Sign Language - Beginner
