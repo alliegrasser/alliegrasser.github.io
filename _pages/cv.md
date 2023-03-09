@@ -43,12 +43,12 @@ Work experience
 * **Ticket Sales and Cashier**
 Beachmont Corn Maze - Kingsville, MD
 September 2016 to November 2019
-  • Volunteer position
-  • Customer service
-  • Using old cash registers and newer registers- such as square
-  • Handling money and credit cards
-  • Quick math skills
-  • Remaining calm in busy and high stress environments
+  *  Volunteer position
+  *  Customer service
+  *  Using old cash registers and newer registers- such as square
+  *  Handling money and credit cards
+  *  Quick math skills
+  *  Remaining calm in busy and high stress environments
 
 * **Supervisor**
 * Fallston Swim Club - Fallston, MD
@@ -75,7 +75,7 @@ September 2016 to November 2019
   *  Supervising lifeguard certifications
   *  Set up and supervised AED training
   *  Aided in first aid training such as spinal injuries, bleeding control training, and other minor injuries
-  v Lifting and transporting equipment to and from the training cite
+  *  Lifting and transporting equipment to and from the training cite
 
   
 Skills
