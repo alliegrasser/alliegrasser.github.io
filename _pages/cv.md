@@ -96,6 +96,7 @@ Skills
   *  ARCGIS
   *  Rstudio
   *  ESRI
+  *  ENVI
   *  Inkscape
 *  AED (4 years)
 *  Experience working with students
