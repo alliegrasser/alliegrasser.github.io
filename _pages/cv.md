@@ -41,8 +41,8 @@ Work experience
   *  Oftentimes worked early and very late hours in order to organize team events
 
 * **Ticket Sales and Cashier**
-Beachmont Corn Maze - Kingsville, MD
-September 2016 to November 2019
+* Beachmont Corn Maze - Kingsville, MD
+* September 2016 to November 2019
   *  Volunteer position
   *  Customer service
   *  Using old cash registers and newer registers- such as square
