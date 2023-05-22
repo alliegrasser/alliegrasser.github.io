@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    :
-  email            : allisongrasser@gmail.com
+  email            : "allisongrasser@gmail.com"
   researchgate     :  
   uri              :
   bitbucket        :
@@ -175,18 +175,10 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
-    output: false
-    permalink: /:collection/:path/
-  publications:
-    output: false
-    permalink: /:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
-  talks:
-    output: false
-    permalink: /:collection/:path/
+
 
 
 # Defaults
